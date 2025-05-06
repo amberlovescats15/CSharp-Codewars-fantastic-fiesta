@@ -12,3 +12,4 @@ C:\Users\kitty\source\repos\CodeWars\Practice\obj\Debug\net8.0\refint\Practice.d
 C:\Users\kitty\source\repos\CodeWars\Practice\obj\Debug\net8.0\Practice.pdb
 C:\Users\kitty\source\repos\CodeWars\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
 C:\Users\kitty\source\repos\CodeWars\Practice\obj\Debug\net8.0\ref\Practice.dll
+C:\Users\kitty\source\repos\CodeWars\Practice\obj\Debug\net8.0\Practice.sourcelink.json

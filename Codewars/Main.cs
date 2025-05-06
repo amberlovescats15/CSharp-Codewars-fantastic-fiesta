@@ -1,7 +1,10 @@
-﻿public class Main
+﻿using System;
+
+namespace Practice.Codewars;
+public class Main
 {
 
-    public static int[] ArrayOfMultiples(int num, int length)
+    public int[] ArrayOfMultiples(int num, int length)
     {
         var loops = 1;
         var multiples = new List<int>();
@@ -15,7 +18,7 @@
         return multiples.ToArray();
     }
 
-    public static int DuplicateCount(string str)
+    public int DuplicateCount(string str)
     {
         Dictionary<char, int> dictionary = new Dictionary<char, int>();
         var split = str.ToLower().Trim().ToList();
@@ -35,7 +38,7 @@
         return multiples.Count();
     }
 
-    public static List<string> Number(List<string> lines)
+    public List<string> Number(List<string> lines)
     {
         List<string> result = new List<string>();
         for (int i = 0; i < lines.Count; i++)
